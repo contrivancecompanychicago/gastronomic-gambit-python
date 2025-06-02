@@ -1,0 +1,4 @@
+pygame==2.1.2
+# other_library==X.Y.Z
+pandas
+requests
