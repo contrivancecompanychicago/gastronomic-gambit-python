@@ -2,3 +2,6 @@ pygame==2.1.2
 # other_library==X.Y.Z
 pandas
 requests
+firebase-admin==6.4.0  # Or whatever version you are using/want to pin
+# Add any other libraries your project needs here
+# e.g., requests==2.31.0
